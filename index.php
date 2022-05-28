@@ -2,9 +2,9 @@
 #
 # Kode Awalan
 #    
-function cetakhello() {
-  echo "Hello World";
-# 00110287  
+$nilai = 3+5; {
+  echo"Hasil =";var_dump($nilai);echo "<br/>";//hasil=int(8)
+# 19112501
 }
 
 ?>
